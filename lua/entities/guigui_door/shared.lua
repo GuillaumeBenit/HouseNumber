@@ -1,4 +1,5 @@
-ENT.Base 			= "base_nextbot"
+ENT.Base 			= "base_ai"
+ENT.Type 			= "ai"
 ENT.Spawnable		= true
 ENT.AdminOnly		= true
 ENT.PrintName		= "Houses register"
